@@ -14,10 +14,10 @@ This dashboard analyzes advertising performance across campaigns, audience segme
 
 This dashboard was developed to:
 
-• Track campaign performance metrics across multiple dimensions
-• Identify high-performing audience segments
-• Monitor engagement and conversion trends over time
-• Support data-driven marketing decisions
+• Track campaign performance metrics across multiple dimensions.
+• Identify high-performing audience segments.
+• Monitor engagement and conversion trends over time.
+• Support data-driven marketing decisions.
 
 ## Key Insights
 
