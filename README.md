@@ -93,20 +93,24 @@ The interactive design allows stakeholders to explore campaign performance dynam
 The final solution delivers a scalable marketing analytics dashboard capable of supporting campaign performance monitoring and strategic decision-making for digital marketing teams.
 
 ## Repository Structure
-
+```
 marketing-campaign-performance-analytics
 │
-
-├── data
-
-├── dashboard
-
-│   └── marketing_dashboard.pbix
-
-├── images
-
-│   └── dashboard_preview.png
-
-├── insights.md
-
+├── 01_data
+│   ├── ad_events.csv
+│   ├── ads.csv
+│   ├── campaigns.csv
+│   └── users.csv
+│
+├── 02_dashboards
+│   └── Marketing Dashboard.pbix
+│
+├── 03_insights
+│   └── Marketing Performance Insights.md
+│
+├── 04_dashboard images
+│   ├── dashboard_01.png
+│   └── dashboard_02.png
+│
 └── README.md
+```
