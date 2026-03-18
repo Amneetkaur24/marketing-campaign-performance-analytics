@@ -96,10 +96,17 @@ The final solution delivers a scalable marketing analytics dashboard capable of 
 
 marketing-campaign-performance-analytics
 │
+
 ├── data
+
 ├── dashboard
+
 │   └── marketing_dashboard.pbix
+
 ├── images
+
 │   └── dashboard_preview.png
+
 ├── insights.md
+
 └── README.md
